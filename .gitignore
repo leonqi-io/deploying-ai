@@ -29,6 +29,7 @@ docs/
 # documents
 *.sqlite
 *.jsonl
+!05_src/assignment_chat/data/weather_knowledge.jsonl
 *.htm
 *.txt
 
